@@ -31,7 +31,7 @@ This project requires **Python** and the following Python libraries installed:
 
 - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 - [names](https://pypi.org/project/names/)
--[pickle](https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy.)
+- [pickle](https://docs.python.org/2/library/pickle.html)
 
 ### Usage:
 
